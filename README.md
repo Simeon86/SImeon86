@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 
 </p>
 
-<img src="https://camo.githubusercontent.com/04293719a7b1081984ff84fd60e4a2217a0587cca95be80365d1e424970f6b6e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6b6f6b6f31393132267468656d653d6d61726f6f6e676f6c64" alt="koko1912's Top Languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=koko1912&amp;theme=maroongold" style="max-width: 100%;">
+<!-- <img src="https://camo.githubusercontent.com/04293719a7b1081984ff84fd60e4a2217a0587cca95be80365d1e424970f6b6e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6b6f6b6f31393132267468656d653d6d61726f6f6e676f6c64" alt="koko1912's Top Languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=koko1912&amp;theme=maroongold" style="max-width: 100%;"> -->
